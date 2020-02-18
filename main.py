@@ -10,7 +10,7 @@ import telegram.ext
 import utils as ut
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-my_token = "917394528:AAGfMNosAr2BZmC-r7GqOHwi77EaFCCpzUc"
+my_token = "THE THOKEN"
 
 bot = telegram.Bot(token=my_token)
 
