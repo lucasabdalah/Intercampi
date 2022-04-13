@@ -1,11 +1,12 @@
 # Intercampi
 BOT no Telegram para fazer updates dos onibus Intercampi da Universidade Federal do Ceará.
 
-[ ] Ponto de Embarque no Pici
-[ ] Ponto de Embarque no Benfica
-[ ] Contatos da DVTRAN 
-[ ] Próxima Saída do Onibus Pici-Benfica
-[ ] Status de todos horarios do Onibus Pici-Benfica
+
+- [ ] Ponto de Embarque no Pici
+- [ ] Ponto de Embarque no Benfica
+- [ ] Contatos da DVTRAN 
+- [ ] Próxima Saída do Onibus Pici-Benfica
+- [ ] Status de todos horarios do Onibus Pici-Benfica
 
 
 # Ponto de Embarque no Pici
